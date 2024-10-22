@@ -121,7 +121,7 @@
     "tslib": "^2.4.0",
     "typescript": "~5.4.5",
     "video.js": "^7.19.2",
-    "vite": "^5.3.1",
+    "vite": "^5.4.6",
     "vite-plugin-checker": "^0.7.2",
     "vite-plugin-node-polyfills": "^0.22.0",
     "zone.js": "~0.14.2"
